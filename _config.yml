@@ -5,7 +5,7 @@ description:
 baseurl:            ""
 url:                "http://nazmiaydin.github.io/"
 github:
-  url:               "http://github.com/nazmiaydin/nazmiaydin.github.io"
+  url:               "http://github.com/nazmiaydin/"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
